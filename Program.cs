@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Project1.Program;
+using Project2.Decimal;
 
-DayProgram dayProgram = new DayProgram();
-dayProgram.Run();
-
-
+DecimalProgram decimalProgram = new DecimalProgram();
+decimalProgram.Run();
