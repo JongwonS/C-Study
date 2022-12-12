@@ -2,5 +2,5 @@
 
 using Project2.Decimal;
 
-DecimalProgram decimalProgram = new DecimalProgram();
+var decimalProgram = new PrimeNumberProgram();
 decimalProgram.Run();
